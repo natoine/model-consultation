@@ -1,0 +1,5 @@
+I wanted to create a model for representation of consultation of resources. 
+I use JPA for peristency.
+I use it to store when someone consult a resource.
+That's absolutely not a long term solution. 
+I'm gonna drop it after my phd.
